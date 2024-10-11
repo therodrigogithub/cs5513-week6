@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <div>
+    <header>
+      <nav>
+        <a
+          href="https://www.santarosa.edu"
+        >
+          Visit SRJC
+        </a>
+      </nav>
+    </header>
+    <main>
+      <h1>
+        List of Names
+      </h1>
+      <div
+        class="list-group"
+      />
+    </main>
+    <footer>
+      <p>
+        The footer
+      </p>
+    </footer>
+  </div>
+</div>
+`;
